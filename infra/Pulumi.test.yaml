@@ -1,0 +1,12 @@
+config:
+  gcp:project: <replace>
+  notejam:location: us-central1
+  notejam:branch: test
+  notejam:repository: notejam
+  notejam:owner: helloworlddan
+  notejam:db_user: <replace>
+  notejam:db_pass: <replace>
+  notejam:db_ha: true
+  notejam:db_node_size: db-f1-micro
+  notejam:project_name: <replace>
+  notejam:project_number: <replace>
